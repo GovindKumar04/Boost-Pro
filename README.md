@@ -8,7 +8,9 @@
   plan according to their intrest</p>
 
   ## Mermaid
+  ```mermaid
   graph TD
   Plans-->Cardio
   Plans-->Dancing
   Plans-->Weight Lifting
+```
