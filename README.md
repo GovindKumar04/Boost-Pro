@@ -13,7 +13,5 @@
   Plans-->Cardio;
   Plans-->Dancing;
   Plans-->Weight_Lifting;
-Package-->"1 month for 20$"-->Basic;
-Package-->"1 month for 25$"-->Premium;
-Package-->"1 month for 30$"-->Diamond;
+
 ```
