@@ -12,5 +12,5 @@
   graph TD
   Plans-->Cardio
   Plans-->Dancing
-  Plans-->Weight Lifting
+  Plans-->Weight_Lifting
 ```
